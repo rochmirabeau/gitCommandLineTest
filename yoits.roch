@@ -1,0 +1,22 @@
+references
+  articles vs books
+  
+handlebars to react
+ 
+functions
+
+models = matched
+routes = matched
+controllers = 
+
+client
+  src
+    components
+      DeleteBtn
+      Form
+      Grid
+      Jumbotron
+      List
+      Nav
+  pages
+         
